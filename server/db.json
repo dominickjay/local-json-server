@@ -1,0 +1,25 @@
+{
+    "albums": [
+      {
+        "id": 1,
+        "title": "The Fragile",
+        "band": "Nine Inch Nails",
+        "genre": "Industrial Metal",
+        "rating": "5/5"
+      },
+      {
+        "id": 2,
+        "title": "Kid A",
+        "band": "Radiohead",
+        "genre": "Alternative Rock",
+        "rating": "4/5"
+      },
+      {
+        "id": 3,
+        "title": "White Pony",
+        "band": "Deftones",
+        "genre": "Alternative Metal",
+        "rating": "4/5"
+      }
+    ]
+  }
